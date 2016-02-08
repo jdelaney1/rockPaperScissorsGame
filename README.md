@@ -1,1 +1,2 @@
 # rockPaperScissorsGame
+play against computer
